@@ -15,6 +15,7 @@ hr.light {
   border-color: #fff; }
 
 a {
+  active: none;
   color: #2e3192;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
@@ -36,7 +37,7 @@ h6 {
 .bg-dark {
   background-color: #212529 !important; }
 
-.text-faded {
+.text-justify {
   color: rgba(255, 255, 255, 0.7); }
 
 section {
